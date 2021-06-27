@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-chisquare",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Chi-square distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
