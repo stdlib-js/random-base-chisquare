@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/random-base-chisquare",
+  "version": "0.0.0",
+  "description": "Chi-square distributed pseudorandom numbers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-base-chisquare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "prng",
+    "rng",
+    "pseudorandom",
+    "random",
+    "rand",
+    "chi2",
+    "chi-squared",
+    "chi-square",
+    "chisquare",
+    "chisquared",
+    "gamma",
+    "generator",
+    "seed",
+    "seedable",
+    "factory"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
