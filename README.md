@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import chisquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-chisquare@esm/index.mjs';
+import chisquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-chisquare@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-chisquare@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-chisquare@v0.2.1-esm/index.mjs';
 ```
 
 #### chisquare( k )
@@ -387,7 +387,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import chisquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-chisquare@esm/index.mjs';
+import chisquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-chisquare@v0.2.1-esm/index.mjs';
 
 var seed;
 var rand;
